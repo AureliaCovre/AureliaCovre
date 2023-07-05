@@ -5,35 +5,36 @@
 ![Aurélia Covre GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliacovre&show_icons=true&theme=radical)
 
 ### Habilidades em evolução:
-<div style="display: inline_block"><br/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+<div> 
+<a style="display: inline_block"><br/>
+   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 
-<div style="display: inline_block"><br/>
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+</a>
 
-<div style="display: inline_block"><br/>
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+</a>
 
-<div style="display: inline_block"><br/>
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
+</a>
 
-<div style="display: inline_block"><br/>
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
-</div>
+</a>
 
-<div style="display: inline_block"><br/>
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</a>
 
-<div style="display: inline_block"><br/>
+
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-<div style="display: inline_block"><br/>
+<a style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
-
+</a>
+<div> 
