@@ -1,5 +1,7 @@
 ### Olá, seja bem vindo ao meu GitHub!😊
 
+![Snake animation](https://github.com/aureliacovre/aureliacovre/blob/output/github-contribution-grid-snake.svg)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelia-covre/)
 
 ![Aurélia Covre GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliacovre&show_icons=true&theme=radical)
@@ -39,4 +41,4 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/aureliacovre/aureliacovre/blob/output/github-contribution-grid-snake.svg)
+
