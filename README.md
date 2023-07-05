@@ -10,9 +10,9 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </code>
 
-<div style="display: inline_block"><br/>
+<code style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+</code>
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
