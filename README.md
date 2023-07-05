@@ -3,9 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelia-covre/)
 
 ![Aurélia Covre GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliacovre&show_icons=true&theme=radical)
-<div>
 <a href="https://github.com/aureliacovre">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliacovre&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Habilidades em evolução:
