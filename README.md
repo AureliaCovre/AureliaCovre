@@ -5,7 +5,7 @@
 ![Aurélia Covre GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliacovre&show_icons=true&theme=radical)
 <a href="https://github.com/aureliacovre">
 </div>
-
+---
 ### Habilidades em evolução:
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
