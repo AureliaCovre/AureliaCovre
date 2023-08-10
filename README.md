@@ -6,6 +6,11 @@
 <a href="https://github.com/aureliacovre">
 </div>
 
+#### Minhas Contribuições 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AureliaCovre&repo=PROJETO_FILMFRAME&bg_color=000&border_color=FF90C5&show_icons=true&icon_color=FF90C5&title_color=FF90C5&text_color=FFF)](https://github.com/AureliaCovre/PROJETO_FILMFRAME)
+
+
+
 ---
 
 ### Habilidades em evolução:
