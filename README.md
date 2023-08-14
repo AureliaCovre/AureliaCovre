@@ -6,7 +6,7 @@
 <a href="https://github.com/aureliacovre">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AureliaCovre&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AureliaCovre&theme=radical)](https://git.io/streak-stats)
 
 ---
 
